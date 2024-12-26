@@ -9,7 +9,7 @@ Questa applicazione è un semplice counter che permette all'utente di aumentare 
 - UI reattiva con un design semplice.
 
 ## Screenshot
-![Screenshot](imm/counter.png)
+![Screenshot](imm/counter.PNG)
 
 ## Link al Progetto
 Prova l'applicazione qui: [Simple Counter App](https://counter-busa-alessandro.netlify.app/)
